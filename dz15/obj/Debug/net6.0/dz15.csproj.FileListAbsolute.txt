@@ -1,0 +1,15 @@
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz15\obj\Debug\net6.0\dz15.csproj.AssemblyReference.cache
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz15\obj\Debug\net6.0\dz15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz15\obj\Debug\net6.0\dz15.AssemblyInfoInputs.cache
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz15\obj\Debug\net6.0\dz15.AssemblyInfo.cs
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz15\obj\Debug\net6.0\dz15.csproj.CoreCompileInputs.cache
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz15\bin\Debug\net6.0\dz15.exe
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz15\bin\Debug\net6.0\dz15.deps.json
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz15\bin\Debug\net6.0\dz15.runtimeconfig.json
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz15\bin\Debug\net6.0\dz15.dll
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz15\bin\Debug\net6.0\dz15.pdb
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz15\obj\Debug\net6.0\dz15.dll
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz15\obj\Debug\net6.0\refint\dz15.dll
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz15\obj\Debug\net6.0\dz15.pdb
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz15\obj\Debug\net6.0\dz15.genruntimeconfig.cache
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz15\obj\Debug\net6.0\ref\dz15.dll

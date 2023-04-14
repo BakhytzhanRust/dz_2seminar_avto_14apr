@@ -1,0 +1,5 @@
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz13\obj\Debug\net6.0\dz13.csproj.AssemblyReference.cache
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz13\obj\Debug\net6.0\dz13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz13\obj\Debug\net6.0\dz13.AssemblyInfoInputs.cache
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz13\obj\Debug\net6.0\dz13.AssemblyInfo.cs
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz13\obj\Debug\net6.0\dz13.csproj.CoreCompileInputs.cache

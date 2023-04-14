@@ -1,0 +1,15 @@
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz10_cop\bin\Debug\net6.0\dz10_cop.exe
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz10_cop\bin\Debug\net6.0\dz10_cop.deps.json
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz10_cop\bin\Debug\net6.0\dz10_cop.runtimeconfig.json
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz10_cop\bin\Debug\net6.0\dz10_cop.dll
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz10_cop\bin\Debug\net6.0\dz10_cop.pdb
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz10_cop\obj\Debug\net6.0\dz10_cop.csproj.AssemblyReference.cache
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz10_cop\obj\Debug\net6.0\dz10_cop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz10_cop\obj\Debug\net6.0\dz10_cop.AssemblyInfoInputs.cache
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz10_cop\obj\Debug\net6.0\dz10_cop.AssemblyInfo.cs
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz10_cop\obj\Debug\net6.0\dz10_cop.csproj.CoreCompileInputs.cache
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz10_cop\obj\Debug\net6.0\dz10_cop.dll
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz10_cop\obj\Debug\net6.0\refint\dz10_cop.dll
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz10_cop\obj\Debug\net6.0\dz10_cop.pdb
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz10_cop\obj\Debug\net6.0\dz10_cop.genruntimeconfig.cache
+C:\Users\админ\Desktop\Geekbrains_newsystem_12april\seminar_11apr_c#\dz10_cop\obj\Debug\net6.0\ref\dz10_cop.dll
